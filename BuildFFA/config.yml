@@ -1,0 +1,23 @@
+---
+# Transfer (IP:PORT)
+fallback-server: "127.0.0.1:19132"
+
+# In which radius it is not possible to remove/remove blocks or hit players
+zone: 5
+
+# ID
+armor:
+  helmet: 0
+  chestplate: 0
+  leggings: 0
+  boots: 0
+
+# SLOT:ITEM_ID:DAMAGE_ID:ITEM_COUNT
+# Enchantment Example: 0:272:0:1:12#1
+items:
+  - "0:272:0:1"
+  - "1:261:0:1"
+  - "2:262:0:64"
+  - "3:24:0:64"
+  - "4:24:0:64"
+...

@@ -1,0 +1,6 @@
+name: BuildFFA
+main: Soufian.buildffa.BuildFFA
+api: 1.0.9
+version: 1.0.0
+author: Soufian
+description: A NukkitX Plugin
